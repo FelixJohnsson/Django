@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(195, 169, 169);
+}
+
+#map {
+    height: 98vh;
+    width: 99vw;
+    float: right;
+}
+
+.mapboxgl-popup-content {
+    background-color: aliceblue;
+    height: 100px;
+    width: 100px;
+}
+
+.marker {
+    display: block;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+}
